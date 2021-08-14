@@ -1,0 +1,71 @@
+body {
+    background-image: url(background.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: bold;
+    color: #eca229
+}
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #eca229
+}
+.descricao {
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    vertical-align: top;
+    margin: 0.5% ;
+    padding: 5px 5px;
+}
+.descricao p {
+    background-color: black;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 750px;
+    height: 275px;
+    border: 2px solid ;
+    border-radius: 12px;
+    opacity: 0.7;
+}
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    color: #eca229
+}
+.comecar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    vertical-align: top;
+    margin: 0.5% ;
+    padding: 5px 5px;
+}
+.comecar h3 {
+    background-color: black;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 200px;
+    height: 39px;
+    border: 2px solid ;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+nav a:hover{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.nav a:hover h3 {
+    font-size:34px;
+}

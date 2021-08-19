@@ -1,5 +1,5 @@
 body {
-    background-image: url(tavernaBean.png);
+    background-image: url(fugindoElfo.png);
     background-size: 100% 100%;
     height: 100vh;
 }
@@ -9,14 +9,14 @@ h1 {
 h2 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: #f3a62a
+    color: #ffa008
 }
 p {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: #f3a62a
+    color: #ffa008
 }
-.descricaoTaverna {
+.descricaoFugindo {
     font-size: 20px;
     display: flex;
     text-align: center;
@@ -25,13 +25,13 @@ p {
     margin: 0.5% ;
     padding: 5px 5px;
 }
-.descricaoTaverna p {
+.descricaoFugindo p {
     background-color: whitesmoke;
     opacity: 0.7 ;
     flex-direction: column;
     box-sizing: border-box;
     width: 750px;
-    height: 350px;
+    height: 250px;
     border-radius: 12px;
 }
 .botao {
@@ -41,7 +41,7 @@ p {
     font-size: 20px;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
-    color: #f3a62a
+    color: #ffa008
 }
 .botao:hover {
     font-size: 24px;

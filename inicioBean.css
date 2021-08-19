@@ -27,6 +27,7 @@ p {
 }
 .descricaoCasamento p {
     background-color: whitesmoke;
+    opacity: 0.7 ;
     flex-direction: column;
     box-sizing: border-box;
     width: 750px;
@@ -35,9 +36,14 @@ p {
 }
 .botao {
     box-sizing: border-box;
+    opacity: 0.7 ;
     border-radius: 5px;
     font-size: 20px;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
     color: #f3a62a
+}
+.botao:hover {
+    font-size: 24px;
+    cursor: pointer;
 }

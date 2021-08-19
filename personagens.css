@@ -10,10 +10,11 @@ h2 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     text-transform: bold;
-    color: #eca229
+    color: #f3a62a
 }
 .personagens li {
     background-color: whitesmoke;
+    opacity: 0.7 ;
     display: inline-block;
     text-align: center;
     width: 31%;
@@ -21,22 +22,20 @@ h2 {
     margin: 0.5%;
     padding: 5px 5px;
     box-sizing: border-box;
-    border: 2px solid #eca229;
     border-radius: 12px;
-    opacity: 0.8;
 }
 .personagens li:hover h3 {
     font-size: 32px;
-    color: #eca229
+    color: #f3a62a
 }
 .personagens h3 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
     font-weight: bold;
-    color: #eca229
+    color: #f3a62a
 }
 .personagem-descricao {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
-    color: #eca229
+    color: #f3a62a
 }

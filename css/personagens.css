@@ -1,5 +1,5 @@
 body {
-    background-image: url(/imagens/background.jpg);
+    background: #FFFFFF url("imagens/background.ppg") no-repeat right top fixed;
     background-size: 100% 100%;
     height: 100vh;
 }

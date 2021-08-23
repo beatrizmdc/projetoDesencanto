@@ -1,15 +1,15 @@
 var escolha
 
-function faseQuatro(){
-    escolha = prompt("O que você vai fazer agora? \n 1- Fugimos juntos, afinal ele é um Elfo muito fofo. \n 2- Largo ele pra trás, não gosto de Elfos. \n Escolha 1 ou 2");
+function faseDois(){
+    escolha = prompt("O que você vai fazer? \n 1- Me esconder debaixo do vestido da princesa \n 2- Aceitar o destino (que, no caso, é a morte) \n Escolha 1 ou 2");
         if (escolha == 1) {
-            alert("Vocês fogem rumo à lugar nenhum, mas pelo menos têm companhia.");
-            window.location.href = "../html/ultimaTelaBean.html";
+            alert("Boa escolha, após cair da janela junto com a princesa, você agora está junto com ela nessa fuga!");
+            window.location.href = "../html/ultimaTelaElfo.html";
             return;
         } 
         
         if (escolha == 2) {
-            alert("O karma chegou a você mais rápido do que pensava! Por não gostar de Elfos, assim que o deixou pra trás, foi capturada pelos cavaleiros do reino.")
+            alert("Nadou, nadou, para morrer na praia? Era melhor ter continuado a ser um Elfo feliz.")
             window.location.href = "../html/finalRuimBean.html";
             return;
         } 

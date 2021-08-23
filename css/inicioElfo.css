@@ -1,5 +1,5 @@
 body {
-    background-image: url(/imagens/inicioElfo.png);
+    background-image: url("../imagens/inicioElfo.png");
     background-size: 100% 100%;
     height: 100vh;
 }

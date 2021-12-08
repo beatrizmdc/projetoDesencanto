@@ -1,4 +1,4 @@
-# Projeto Módulo 1 | Resilia | Desencanto
+# Projeto Módulo 1 - Resilia | RPG Desencanto
 
 A proposta do RPG Desencanto é ser um jogo de escolha, baseado no primeiro episódio da série Desencanto. Foi desenvolvido como projeto final do Módulo 1, da Resilia.
 

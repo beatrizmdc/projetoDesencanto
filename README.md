@@ -1,6 +1,6 @@
 # Projeto Módulo 1 | Resilia | Desencanto
 
-O projeto RPG Desencanto foi estruturado utilizando somente HTML5, CSS3 e um pouco de JavaScript. Foi o projeto final do primeiro módulo da Resilia.
+A proposta do RPG Desencanto é ser um jogo de escolha, baseado no primeiro episódio da série Desencanto. Foi desenvolvido como projeto final do Módulo 1, da Resilia.
 
 Projeto desenvolvido por:
 

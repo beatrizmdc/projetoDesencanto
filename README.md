@@ -13,7 +13,7 @@ Projeto desenvolvido por:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## Visite a Gitpages para jogar!
+### Visite a Gitpages para jogar!
 - [RPG Desencanto](https://beatrizmdc.github.io/projetoDesencanto/)
 
 
